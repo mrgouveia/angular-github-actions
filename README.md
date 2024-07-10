@@ -5,8 +5,6 @@ Application example built with [Angular](https://angular.io/) 15 and hosted on [
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/hospedando-uma-aplicacao-angular-no-github-pages-usando-o-github-actions) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/hosting-an-angular-application-on-github-pages-using-github-actions-5ag8) in english.
 
-
-
 ## Prerequisites
 
 
